@@ -1,3 +1,4 @@
+![logo](https://github.com/vgirkar/vgirkar/blob/main/charlotte.img)
 <h1 align="center">Hi 👋, I'm Vinit Vilas Girkar</h1>
 <h3 align="center">Software Engineer At Amazon</h3>
 
